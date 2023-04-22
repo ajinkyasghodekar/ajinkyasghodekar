@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# and .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajinkyasghodekar/](https://github.com/ajinkyasghodekar/)
+- 👨‍💻 All of my projects are available at [https://github.com/ajinkyasghodekar/](https://github.com/ajinkyasghodekar?tab=repositories)
 
 - 💬 Ask me about **Java, API Integration, C#, .NET**
 
