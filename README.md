@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajinkya-ghodekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajinkya-ghodekar/" height="30" width="40" /></a>
-<a href="https://fb.com/ajinkya ghodekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajinkya ghodekar" height="30" width="40" /></a>
-<a href="https://instagram.com/ajinkya.ghodekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajinkya.ghodekar" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/ajinkya-ghodekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajinkya-ghodekar/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ajinkya.ghodekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajinkya.ghodekar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090257021049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajinkya ghodekar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
