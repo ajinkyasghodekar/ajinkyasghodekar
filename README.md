@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Ghodekar</h1>
 <h3 align="center">while( ! (succeed = try( ) ) );</h3>
 
-- 🔭 I’m currently working on **SAG webMethods Integration, MuleSoft Integration, Java, C# and .Net**
+- 🔭 I have worked on **Automation Anywhere, Chat GPT, SAG webMethods Integration, MuleSoft Integration and Java** And currently working on **C# and .Net 7**
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **.NET 7 nad .Net 8 Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajinkyasghodekar/](https://github.com/ajinkyasghodekar?tab=repositories)
 
