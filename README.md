@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **.NET 7 nad .Net 8 Frameworks**
 
+- 📈 Check out my coding skills on [HackerRank](https://www.hackerrank.com/profile/ajinkyasghodekar)
+
 - 👨‍💻 All of my projects are available at [https://github.com/ajinkyasghodekar/](https://github.com/ajinkyasghodekar?tab=repositories)
 
-- 💬 Ask me about **Java, API Integration, C#, .NET**
+- 💬 Ask me about **C#, .NET, Asp.Net Mvc, React**
 
 - 📫 How to reach me **ajinkyasghodekar@gmail.com**
 
