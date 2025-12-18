@@ -33,4 +33,4 @@
 
 <p><img align="right" height = "40%" width = "45%" src="https://github-readme-stats.vercel.app/api?username=ajinkyasghodekar&show_icons=true&locale=en" alt="ajinkyasghodekar" /></p>
 
-<p><img align="right" height = "40%" width = "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyasghodekar&" alt="ajinkyasghodekar" /></p>
+<!-- <p><img align="right" height = "40%" width = "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyasghodekar&" alt="ajinkyasghodekar" /></p> -->
